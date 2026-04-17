@@ -12,9 +12,6 @@ Once the LLM generates a response, speech module also saves the audio file and g
 
 The User Interface is built using [Streamlit](https://docs.streamlit.io) and provides a familiar Chat-like experience. 
 
-# Demo
-![image](demo.png)
-
 # Installation 
 Install project dependencies
 ```

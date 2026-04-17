@@ -21,4 +21,3 @@ Install project dependencies
 pip install -r requirements 
 ```
 
-If using GPT Models, create a `.env` file with environment variables for `OPENAI_API_KEY` and `OPENAI_API_BASE`. 
